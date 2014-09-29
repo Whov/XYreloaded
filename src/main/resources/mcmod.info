@@ -1,0 +1,16 @@
+[
+{
+  "modid": "xyreloaded",
+  "name": "XY Reloaded",
+  "description": "I accept suggestions for the description field.",
+  "version": "",
+  "mcversion": "",
+  "url": "http://www.whov.altervista.org",
+  "updateUrl": "",
+  "authorList": ["Whov"],
+  "credits": "Whov for this mod, Soaryn for XYcraft that inspired me and the Forge and FML guys, for making forge",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

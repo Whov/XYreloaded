@@ -1,0 +1,37 @@
+tile.blockBrickBlack.name=Black Brick
+tile.blockBrickWhite.name=White Brick
+tile.blockBrickRed.name=Red Brick
+tile.blockBrickGreen.name=Green Brick
+tile.blockBrickBlue.name=Blue Brick
+tile.blockBrickYellow.name=Yellow Brick
+tile.blockBrickPink.name=Pink Brick
+tile.blockBrickPurple.name=Purple Brick
+tile.blockBrickOrange.name=Orange Brick
+
+tile.blockABrickBlack.name=Fancy Black Brick
+tile.blockABrickWhite.name=Fancy White Brick
+tile.blockABrickRed.name=Fancy Red Brick
+tile.blockABrickGreen.name=Fancy Green Brick
+tile.blockABrickBlue.name=Fancy Blue Brick
+tile.blockABrickYellow.name=Fancy Yellow Brick
+tile.blockABrickPink.name=Fancy Pink Brick
+tile.blockABrickPurple.name=Fancy Purple Brick
+tile.blockABrickOrange.name=Fancy Orange Brick
+
+tile.blockGlassViewer.name=Fancy Glass
+tile.blockValve.name=Xy Tank Valve
+tile.blockintank.name=Xy Tank Fluid Container
+
+tile.fabricator.name=Bulk Fabricator
+
+tile.wire.name=Fancy Red Wire
+tile.wireinput.name=Fancy Red Wire Input
+
+tile.riceBlock.name=Rice
+tile.alga.name=Alga
+item.XYseeds.name=Rice seed
+
+chopSticks.name=Chopsticks
+basicBowl.name=Gohan
+rice_ball.name=Rice Ball
+rice_ball2.name=Onigiri
